@@ -4,8 +4,8 @@ This is a single page HTML project showcasing CV, built to practice semantic HTM
 Link to [Roadmap.sh Project](https://roadmap.sh/projects/single-page-cv)
 
 ## Tech Stack
-HTML5
-CSS
+- HTML5
+- CSS
 
 ## How to Run Locally
 1. Clone the repo 
